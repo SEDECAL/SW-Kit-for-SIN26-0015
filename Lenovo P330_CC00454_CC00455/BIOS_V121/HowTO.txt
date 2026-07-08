@@ -1,0 +1,16 @@
+*****************************************************************************
+*                      Basic Installation Instructions                      *
+*                                                                           *
+*     1.  Please create&copy all the files to C:\OEM\BIOS Directory         *
+*     2.  Execute M1VJY79USA.exe with elevated privileges.		    *
+*     3.  Select Extract Only when asked.				    *
+*     4.  Change the route for destination to C:\SWTOOLS\FLASH\M1VJY79USA   *
+*     5.  Move to C:\SWTOOLS\FLASH\M1VJY79USA and execute wFlashGUIx64 with *
+*         elevated privileges. Do not change Serial Number nor Machine type.*
+*         You Will need the BIOS password.				    *
+*         The system will reboot for BIOS updating.                         *
+*     5.  Execute M1VJW79USA.exe with elevated privileges.                  *
+*     6.  Change the route for destination to C:\SWTOOLS\FLASH\M1VJW79USA   *  
+*     7.  Execute BIOS.bat						    *
+*                                                                           *
+*****************************************************************************
